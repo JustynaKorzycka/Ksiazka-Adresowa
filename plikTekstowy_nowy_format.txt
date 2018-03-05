@@ -1,0 +1,3 @@
+0|Justyna|Korzycka|6661720110|justyna@mail|szablowskiego 45
+1|Mama|Korzycka|55555|mama@mail|slowackiego 48
+2|Pawel|krzeminski|888888|mail@bardzomail|szablowskiego iles tam
