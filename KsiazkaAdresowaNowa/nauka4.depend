@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520089908 source:c:\users\justyna\desktop\przyszly programista\nauka4\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1520599570 source:c:\users\justyna\desktop\przyszly programista\ksiazkaadresowanowa\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
